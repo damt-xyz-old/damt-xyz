@@ -25,4 +25,4 @@ Whether you want to report a rough edge, help maintain an existing app, contribu
 
 - **App support:** `support@damt.xyz`
 - **Everything else:** `contact@damt.xyz`
-- **Contact & notes:** [damt.xyz/contact](https://damt.xyz/contact) · [damt.xyz/blog](https://damt.xyz/blog)
+- **Notes & releases:** [damt.xyz/blog](https://damt.xyz/blog)
